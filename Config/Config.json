@@ -1,0 +1,85 @@
+{
+    "o365": {
+        "Alias":"Office 365",
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "LYO": {
+        "Alias":"Skype for business",
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "Planner": {
+        "IPv4": true,
+        "URL": true
+    },
+    "Teams": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "ProPlus": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "OneNote": {
+        "IPv4": true,
+        "URL": true
+    },
+    "Yammer": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "EXO": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "Identity": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "Office365Video": {
+        "URL": true
+    },
+    "WAC": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "SPO": {
+        "IPv4": true,
+        "IPv6": true,
+        "URL": true
+    },
+    "RCA": {
+        "IPv4": true,
+        "IPv6": true
+    },
+    "Sway": {
+        "IPv4": true,
+        "URL": true
+    },
+    "EX-Fed": {
+        "IPv4": true,
+        "IPv6": true
+    },
+    "OfficeMobile": {
+        "URL": true
+    },
+    "CRLs": {
+        "URL": true
+    },
+    "OfficeiPad": {
+        "URL": true
+    },
+    "EOP": {
+        "IPv4": true,
+        "IPv6": true
+    }
+}
